@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/kaimo313/kaimo313/blob/manual-run-output/docker/github-contribution-grid-snake.gif)
+![](https://github.com/kaimo313/kaimo313/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
