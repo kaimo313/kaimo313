@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 <table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo313&theme=vue-light&show_icons=false&count_private=false&hide_border=true" style="height:180px;" align="left"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kaimo313&show_icons=true&count_private=true&theme=vue-light&hide_border=true" style="height:180px;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo313&theme=vue-light&show_icons=false&count_private=false&hide_border=true" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kaimo313&show_icons=true&count_private=true&theme=vue-light&hide_border=true" style="zoom:146%;" align="left"/></td>
   </tr>
 </table>
 
