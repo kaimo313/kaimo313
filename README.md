@@ -42,4 +42,7 @@ Here are some ideas to get you started:
 
 ### 🌱 我的统计信息 🌱
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo313&theme=vue-light)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimo313"></img>
+
 ![](https://github-readme-stats.vercel.app/api?username=kaimo313&show_icons=true&count_private=true&theme=vue-light&hide_border=true)
