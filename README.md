@@ -1,4 +1,4 @@
-## 🌱🌱🌱 凯小默的博客 🌱🌱🌱
+# 🌱🌱🌱 凯小默的博客 🌱🌱🌱
 
 > Standing on the shoulders of giants.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,svg,tailwind,sass,bootstrap,js,ts,d3,jquery,angular,vue,react,redux,nodejs,express,nestjs,nextjs,nuxtjs,babel,gulp,webpack,vite,rollup,vitest,nginx,mongodb,mysql,redis,jenkins,kubernetes,docker,jest,git,github,gitlab,vscode,regex,md,postman,powershell,linux,stackoverflow&theme=light" style="height: 84px;" />
+        <img src="https://skillicons.dev/icons?i=html,css,svg,tailwind,sass,bootstrap,js,ts,d3,jquery,angular,vue,react,redux,nodejs,express,nestjs,nextjs,nuxtjs,babel,gulp,webpack,vite,rollup,vitest,nginx,mongodb,mysql,redis,jenkins,kubernetes,docker,jest,git,github,gitlab,vscode,regex,md,postman,powershell,linux,stackoverflow&theme=light&perline=22" />
     </a>
 </p>
 
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 <table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo313&theme=vue-light&show_icons=false&count_private=false&hide_border=true" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kaimo313&show_icons=true&count_private=true&theme=vue-light&hide_border=true" style="zoom:146%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo313&theme=vue-light&show_icons=false&count_private=false&hide_border=true" style="zoom:80%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kaimo313&show_icons=true&count_private=true&theme=vue-light&hide_border=true" style="zoom:116%;" align="left"/></td>
   </tr>
 </table>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimo313" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimo313" style="zoom:80%;"/>
 </p>
