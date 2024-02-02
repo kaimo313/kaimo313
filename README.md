@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,svg,tailwind,sass,bootstrap,js,ts,d3,jquery,angular,vue,react,redux,nodejs,express,nestjs,nextjs,nuxtjs,babel,gulp,webpack,vite,rollup,vitest,nginx,mongodb,mysql,redis,jenkins,kubernetes,docker,jest,git,github,gitlab,vscode,regex,md,postman,powershell,linux,stackoverflow&theme=light&perline=22" />
+        <img src="https://skillicons.dev/icons?i=html,css,svg,tailwind,sass,bootstrap,js,ts,d3,jquery,angular,vue,react,redux,nodejs,express,nestjs,nextjs,nuxtjs,babel,gulp,webpack,vite,rollup,vitest,nginx,mongodb,mysql,redis,jenkins,kubernetes,docker,jest,git,github,gitlab,vscode,regex,md,postman,powershell,linux,stackoverflow&theme=dark&perline=22" />
     </a>
 </p>
 
